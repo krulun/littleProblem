@@ -41,3 +41,6 @@ some little problems and bugs in my work
   $("#chk2").attr("checked") == "checked"
   
   # aa
+  
+  ![](http://www.baidu.com/img/bdlogo.gif)  
+  
