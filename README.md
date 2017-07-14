@@ -1,7 +1,7 @@
 * littleProblem
 some little problems and bugs in my work
 
- * attr
+   * attr
   
   jquery获取checkbox的checked属性
 
@@ -40,7 +40,7 @@ some little problems and bugs in my work
   $("#chk1").attr("checked") == undefined
   $("#chk2").attr("checked") == "checked"
   
- * 
+   * 
   
   ![](http://www.baidu.com/img/bdlogo.gif)  
   
