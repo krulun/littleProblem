@@ -39,11 +39,10 @@ some little problems and bugs in my work
   $("#chk2").prop("checked") == true
   ```
   ```如果上面使用attr方法，则会出现：
-```
   $("#chk1").attr("checked") == undefined
   $("#chk2").attr("checked") == "checked"
-  
+    ```
    * 
-  ```
+
   ![](http://www.baidu.com/img/bdlogo.gif)  
   
